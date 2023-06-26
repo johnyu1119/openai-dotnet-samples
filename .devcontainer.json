@@ -8,7 +8,7 @@
         }
     },
     "containerEnv": {
-        "AOAI_DEPLOYMENTID": "",
+        "AOAI_DEPLOYMENTID": "text-davinci-003_fbs",
         "AOAI_ENDPOINT": "",
         "AOAI_KEY": ""
     },
