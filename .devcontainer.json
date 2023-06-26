@@ -9,8 +9,8 @@
     },
     "containerEnv": {
         "AOAI_DEPLOYMENTID": "text-davinci-003_fbs",
-        "AOAI_ENDPOINT": "",
-        "AOAI_KEY": ""
+        "AOAI_ENDPOINT": "https://openaisamplefbs.openai.azure.com/",
+        "AOAI_KEY": "a196568b323d4b00a84b31b2022cd0b3"
     },
     "postStartCommand": "bash download-vocab-files.sh",
 }
